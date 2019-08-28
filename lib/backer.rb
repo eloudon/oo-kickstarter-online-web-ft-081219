@@ -9,6 +9,6 @@ end
 
 def project=(project)
   @backed_projects << project
-  
+
 end
 end
